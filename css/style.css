@@ -1,0 +1,217 @@
+.help
+{
+    height:500px;
+}
+h1
+{
+    font-family:'Montserrat-black';
+    font-size: 5rem;
+    line-height: 1.5;
+    color: #232323;
+    padding-bottom: 50px;
+    
+}
+.sign
+{
+    margin-right: 15px;
+}
+.container-fluid
+{
+    padding:3% 15% 3% 15%;
+}
+.colour
+{
+    background-color: #eeeeee;
+}
+body
+{
+    font-family: 'Montserrat-black';
+}
+.navbar-brand
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item
+{
+    font-size:large;
+    padding:0px 15px 0px 15px;
+}
+.nav-link
+{
+    color:#232323
+}
+#features
+{
+    background-color:#5089C6;
+    padding:7% 15% 0% 15%;
+}
+.feature-box
+{
+    text-align: center;
+    padding:5%;
+}
+h3
+{
+    font-weight:bolder;
+    padding-top: 10px;
+}
+.pp
+{
+    color:#BBBFCA;
+}
+.far{
+    color: aliceblue;
+}
+.fas{
+    color: aliceblue;
+}
+.test
+{
+    height:300px;
+    padding-bottom: 30px;
+}
+#testimonial
+{
+    text-align: center;
+    background-color: #eeeeee;
+    font-family: 'Montserrat-bold';
+    font-weight: bolder;
+}
+.testfont
+{
+    font-size: 1.5rem;
+    line-height: 1.5;
+    width: 60%;
+    margin:0 auto 0 auto;
+}
+#press
+{
+    background-color: #eeeeee;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.pris
+{
+    width:200px;
+    margin:30px;
+}
+.carousel-item
+{
+    padding:7% 15% 7% 15%;
+}
+.list
+{
+    width:500px;
+}
+#pricing
+{
+    text-align: center;
+    padding: 7% 15% 7% 15%;
+    background-color: #5089C6;
+}
+.padd
+{
+    padding-top: 50px;
+}
+.head
+{
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration-line: underline;
+}
+.line
+{
+    line-height: 2;
+    font-weight: bold;
+    font-size: 20px;
+}
+.dist
+{
+    margin-bottom: 20px;
+}
+/* unvisited link */
+a:link {
+    color:white
+  }
+  
+  /* visited link */
+  a:visited {
+    color:white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
+  @media (max-width:900px)
+  {
+     #title
+     {
+         text-align: center;
+     }
+     .buttonspace
+     {
+         padding-bottom: 30px;
+     }
+      
+  }
+  @media (max-width:800px)
+  {
+      h1{
+          font-size: 50px;
+        }
+      .help
+      {
+          height:300px;
+          width:300px;
+      }
+      .testfont
+      {
+          font-size: 20px;
+      }
+      .list
+      {
+        
+          width: 200px;
+      }
+      .phone
+      {
+          font-size:50px;
+      }
+  }
+  .phone
+  {
+   font-family: 'Montserrat-bold';
+   font-weight: bolder;
+    color: aliceblue;
+  }
+  #bottom
+  {
+      background-color: #eeeeee;
+      padding:5% 15% 7% 15%;
+      text-align: center;
+  }
+  .space
+  {
+      margin-right: 30px;
+  }
+ #footer
+ {
+     background-color: #5089C6;
+     padding:3%;
+     text-align: center;
+     color:#eeeeee;
+ }
+ .profile
+ {
+     margin-right: 10px;
+     padding-bottom: 0px;
+ }
+  
